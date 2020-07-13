@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/pradiph31/Downloads/Images/737474.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080A0E",
+        "foreground": "#aac9dc",
+        "cursor": "#aac9dc"
+    },
+    "colors": {
+        "color0": "#080A0E",
+        "color1": "#2D4972",
+        "color2": "#575657",
+        "color3": "#9E805E",
+        "color4": "#305A8C",
+        "color5": "#4E7198",
+        "color6": "#628CAF",
+        "color7": "#aac9dc",
+        "color8": "#768c9a",
+        "color9": "#2D4972",
+        "color10": "#575657",
+        "color11": "#9E805E",
+        "color12": "#305A8C",
+        "color13": "#4E7198",
+        "color14": "#628CAF",
+        "color15": "#aac9dc"
+    }
+}

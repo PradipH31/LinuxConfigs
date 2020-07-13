@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/pradiph31/Downloads/Images/telegram/001.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d1b",
+        "foreground": "#c1afbf",
+        "cursor": "#c1afbf"
+    },
+    "colors": {
+        "color0": "#0d0d1b",
+        "color1": "#53484C",
+        "color2": "#6D5655",
+        "color3": "#A04C38",
+        "color4": "#BC4D36",
+        "color5": "#996859",
+        "color6": "#CE966A",
+        "color7": "#c1afbf",
+        "color8": "#877a85",
+        "color9": "#53484C",
+        "color10": "#6D5655",
+        "color11": "#A04C38",
+        "color12": "#BC4D36",
+        "color13": "#996859",
+        "color14": "#CE966A",
+        "color15": "#c1afbf"
+    }
+}

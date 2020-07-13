@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/pradiph31/Downloads/Images/wp1951668-anime-scenery-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0A25",
+        "foreground": "#c3c7de",
+        "cursor": "#c3c7de"
+    },
+    "colors": {
+        "color0": "#0F0A25",
+        "color1": "#626095",
+        "color2": "#9B7093",
+        "color3": "#D4768D",
+        "color4": "#7B85B0",
+        "color5": "#9D8BAC",
+        "color6": "#DB9FA2",
+        "color7": "#c3c7de",
+        "color8": "#888b9b",
+        "color9": "#626095",
+        "color10": "#9B7093",
+        "color11": "#D4768D",
+        "color12": "#7B85B0",
+        "color13": "#9D8BAC",
+        "color14": "#DB9FA2",
+        "color15": "#c3c7de"
+    }
+}

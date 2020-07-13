@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/pradiph31/Downloads/Images/Hellsing/Hellsing (2).jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010000",
+        "foreground": "#e7e0e0",
+        "cursor": "#e7e0e0"
+    },
+    "colors": {
+        "color0": "#010000",
+        "color1": "#986260",
+        "color2": "#E7BC66",
+        "color3": "#3D6284",
+        "color4": "#5F76A9",
+        "color5": "#7280AC",
+        "color6": "#B6A09F",
+        "color7": "#e7e0e0",
+        "color8": "#a19c9c",
+        "color9": "#986260",
+        "color10": "#E7BC66",
+        "color11": "#3D6284",
+        "color12": "#5F76A9",
+        "color13": "#7280AC",
+        "color14": "#B6A09F",
+        "color15": "#e7e0e0"
+    }
+}

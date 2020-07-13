@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/pradiph31/Downloads/Images/Hunter X Hunter/Hunter X Hunter (9).png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1517",
+        "foreground": "#ebe8e4",
+        "cursor": "#ebe8e4"
+    },
+    "colors": {
+        "color0": "#0e1517",
+        "color1": "#568DB5",
+        "color2": "#5A96C2",
+        "color3": "#7EB6CC",
+        "color4": "#83BAD0",
+        "color5": "#A8BAC8",
+        "color6": "#A4C3D1",
+        "color7": "#ebe8e4",
+        "color8": "#a4a29f",
+        "color9": "#568DB5",
+        "color10": "#5A96C2",
+        "color11": "#7EB6CC",
+        "color12": "#83BAD0",
+        "color13": "#A8BAC8",
+        "color14": "#A4C3D1",
+        "color15": "#ebe8e4"
+    }
+}

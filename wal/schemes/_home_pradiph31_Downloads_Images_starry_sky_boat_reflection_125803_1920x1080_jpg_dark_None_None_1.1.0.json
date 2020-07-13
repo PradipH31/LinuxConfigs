@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/pradiph31/Downloads/Images/starry_sky_boat_reflection_125803_1920x1080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100a08",
+        "foreground": "#d9c4ad",
+        "cursor": "#d9c4ad"
+    },
+    "colors": {
+        "color0": "#100a08",
+        "color1": "#334755",
+        "color2": "#375063",
+        "color3": "#4D5350",
+        "color4": "#63645C",
+        "color5": "#8E755C",
+        "color6": "#AB8C6A",
+        "color7": "#d9c4ad",
+        "color8": "#978979",
+        "color9": "#334755",
+        "color10": "#375063",
+        "color11": "#4D5350",
+        "color12": "#63645C",
+        "color13": "#8E755C",
+        "color14": "#AB8C6A",
+        "color15": "#d9c4ad"
+    }
+}

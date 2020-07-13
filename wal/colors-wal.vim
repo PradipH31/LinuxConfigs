@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/pradiph31/Downloads/Images/143747.jpg"
+let background = "#010709"
+let foreground = "#aacdd9"
+let cursor     = "#aacdd9"
+
+" Colors
+let color0  = "#010709"
+let color1  = "#27556A"
+let color2  = "#455C56"
+let color3  = "#C4A64F"
+let color4  = "#366D8B"
+let color5  = "#447891"
+let color6  = "#4F8BA9"
+let color7  = "#aacdd9"
+let color8  = "#768f97"
+let color9  = "#27556A"
+let color10 = "#455C56"
+let color11 = "#C4A64F"
+let color12 = "#366D8B"
+let color13 = "#447891"
+let color14 = "#4F8BA9"
+let color15 = "#aacdd9"

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/pradiph31/Downloads/Images/naruto_hatake_kakashi_solo_gloves_leaves_scar_hieroglyph_bandana_lightning_28880_1920x1080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1216",
+        "foreground": "#d4ddda",
+        "cursor": "#d4ddda"
+    },
+    "colors": {
+        "color0": "#0C1216",
+        "color1": "#354C5F",
+        "color2": "#546064",
+        "color3": "#987F69",
+        "color4": "#46718E",
+        "color5": "#49ADC7",
+        "color6": "#9AA4A0",
+        "color7": "#d4ddda",
+        "color8": "#949a98",
+        "color9": "#354C5F",
+        "color10": "#546064",
+        "color11": "#987F69",
+        "color12": "#46718E",
+        "color13": "#49ADC7",
+        "color14": "#9AA4A0",
+        "color15": "#d4ddda"
+    }
+}

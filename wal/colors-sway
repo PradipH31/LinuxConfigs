@@ -1,0 +1,21 @@
+set $wallpaper /home/pradiph31/Downloads/Images/143747.jpg
+
+set $background #010709
+set $foreground #aacdd9
+
+set $color0 #010709
+set $color1 #27556A
+set $color2 #455C56
+set $color3 #C4A64F
+set $color4 #366D8B
+set $color5 #447891
+set $color6 #4F8BA9
+set $color7 #aacdd9
+set $color8 #768f97
+set $color9 #27556A
+set $color10 #455C56
+set $color11 #C4A64F
+set $color12 #366D8B
+set $color13 #447891
+set $color14 #4F8BA9
+set $color15 #aacdd9

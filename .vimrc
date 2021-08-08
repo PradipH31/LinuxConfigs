@@ -1,3 +1,16 @@
+if empty(glob('~/.vim/autoload/plug.vim'))
+    silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
+        \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+    autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
+endif
+
+call plug#begin('~/.vim/plugged')
+
+"vim-airline plugin
+Plug 'vim-airline/vim-airline'
+
+call plug#end()
+
 " syntax highlighting
 syntax on
 
@@ -26,10 +39,10 @@ set incsearch
 set tabstop=4
 
 "replace tabs with white space
-set expandtab
+"set expandtab
 
 "set vim to delete a tab(4 spaces) with a single backspace
-set softtabstop=4
+"set softtabstop=4
 
 "from /etc/vim/vimrc
 set background=dark 
@@ -41,3 +54,5 @@ set incsearch       " Incremental search
 set autowrite      " Automatically save before commands like :next and :make
 set hidden     " Hide buffers when they are abandoned
 set mouse=a        " Enable mouse usage (all modes)
+
+let g:airline_powerline_fonts=1
